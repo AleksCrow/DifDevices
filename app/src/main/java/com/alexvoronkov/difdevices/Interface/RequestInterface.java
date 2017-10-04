@@ -1,4 +1,6 @@
-package com.alexvoronkov.difdevices;
+package com.alexvoronkov.difdevices.Interface;
+
+import com.alexvoronkov.difdevices.ObjectClass.AndroidVersion;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

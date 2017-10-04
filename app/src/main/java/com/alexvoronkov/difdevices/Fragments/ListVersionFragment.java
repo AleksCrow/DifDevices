@@ -1,4 +1,4 @@
-package layout;
+package com.alexvoronkov.difdevices.Fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,11 +10,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.alexvoronkov.difdevices.AndroidVersion;
-import com.alexvoronkov.difdevices.DataAdapter;
-import com.alexvoronkov.difdevices.DetailsFragment;
+import com.alexvoronkov.difdevices.ObjectClass.AndroidVersion;
+import com.alexvoronkov.difdevices.Adapter.DataAdapter;
 import com.alexvoronkov.difdevices.R;
-import com.alexvoronkov.difdevices.RequestInterface;
+import com.alexvoronkov.difdevices.Interface.RequestInterface;
 
 import java.io.Serializable;
 import java.util.ArrayList;

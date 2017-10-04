@@ -1,4 +1,4 @@
-package com.alexvoronkov.difdevices;
+package com.alexvoronkov.difdevices.ObjectClass;
 
 import java.io.Serializable;
 

@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/list_version"
-        android:name="layout.ListVersionFragment"
+        android:name="com.alexvoronkov.difdevices.Fragments.ListVersionFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 

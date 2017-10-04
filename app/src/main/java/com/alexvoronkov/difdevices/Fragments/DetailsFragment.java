@@ -1,8 +1,11 @@
-package com.alexvoronkov.difdevices;
+package com.alexvoronkov.difdevices.Fragments;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.alexvoronkov.difdevices.ObjectClass.AndroidVersion;
+import com.alexvoronkov.difdevices.R;
 
 import java.io.Serializable;
 import java.util.ArrayList;

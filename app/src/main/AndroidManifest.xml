@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DetailsFragment"
+            android:name=".Fragments.DetailsFragment"
             android:label="@string/about"
             android:parentActivityName=".MainActivity">
         </activity>

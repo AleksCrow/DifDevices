@@ -1,10 +1,13 @@
-package com.alexvoronkov.difdevices;
+package com.alexvoronkov.difdevices.Adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.alexvoronkov.difdevices.ObjectClass.AndroidVersion;
+import com.alexvoronkov.difdevices.R;
 
 import java.util.ArrayList;
 
