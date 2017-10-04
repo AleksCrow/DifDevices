@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DifAndroids</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Подробнее</string>
+    <string name="name">Название версии:</string>
+    <string name="version">Версия:</string>
+    <string name="api">Версия API:</string>
+</resources>
